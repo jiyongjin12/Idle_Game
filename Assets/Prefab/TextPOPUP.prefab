@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f801b21634452e4dbf37a3836e19c15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingVelocity: 750
-  velocityDecayRate: 1500
+  startingVelocity: 30
+  velocityDecayRate: 100
   timeBeforeFadeStarts: 0.6
   fadeSpeed: 3

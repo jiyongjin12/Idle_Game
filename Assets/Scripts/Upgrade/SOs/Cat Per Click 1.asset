@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UpgradeAmount: 1
   OriginalUpgradeCost: 100
-  CurrentUpgradeCost: 100
+  CurrentUpgradeCost: 121
   CostIncreaseMultiplierPerPurchase: 0.1
   UpgradeButtonText: 1 CPC
-  UpgradeButtonDescription: Increase your cat per click by {0}
+  UpgradeButtonDescription: Click Level  {0}

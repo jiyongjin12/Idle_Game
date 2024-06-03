@@ -46,7 +46,7 @@ public class PopupText : MonoBehaviour
     {
         clickAmountText.text = "+" + amount.ToString("0");
 
-        float randomx = Random.Range(-300f, 300f);
+        float randomx = Random.Range(-10f, 10f);
         currentVelocity = new Vector2(randomx, startingVelocity);
     }
 

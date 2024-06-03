@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UpgradeAmount: 1
   OriginalUpgradeCost: 50
-  CurrentUpgradeCost: 50
+  CurrentUpgradeCost: 80
   CostIncreaseMultiplierPerPurchase: 0.1
   UpgradeButtonText: 1 CPS
-  UpgradeButtonDescription: Increase your cookies per second by {0}
+  UpgradeButtonDescription: Auto Level {0}
